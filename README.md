@@ -1,4 +1,4 @@
-# Active-Directory-Detection-Lab
+# Active-Directory-Detection-Project
 
 ## Objective
 [Brief Objective - Remove this afterwards]
